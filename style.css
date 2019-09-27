@@ -11,7 +11,7 @@ input, label, #scanner-container {
     width: 200px;
     background-color: black;
     color: white;
-    font-size: 16px;
+    font-size: 5em;
     border-radius: 30px;
     border: none;
     padding: 0px 20px;
