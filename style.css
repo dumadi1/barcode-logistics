@@ -1,0 +1,33 @@
+body, input {
+  font-size:14pt;
+}
+
+input, label, #scanner-container {
+  vertical-align:middle
+}
+
+
+#startButton{
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border-radius: 30px;
+    border: none;
+    padding: 0px 20px;
+    text-align: center;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+    position: fixed;
+    bottom: 20px;
+    left: calc(50% - 100px);
+    cursor: pointer;
+
+}
+#firstpage {
+  background: url(https://cdn.dribbble.com/users/760333/screenshots/2049633/medical3.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #72c3c9;
+}
